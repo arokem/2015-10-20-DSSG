@@ -1,0 +1,66 @@
+Say a bit earlier what we actually did.
+
+How did we implement “lean”/“agile” methodology?
+
+Say more about each project - use Sarah’s slides
+
+For summary: “you could do this at home!” What are the *necessary* ingredients for success? Stakeholder engagement (two days a week! No projects “thrown over the wall“). Project management. In-house data scientists
+
+Questions: long-term impact?
+
+Mention huge interest (students, projects) - social good and urban a good focus (for us, and in general)
+
+
+##################
+X Pie-chart legends
+X Legends on figures in project panels
+
+X Pie-chart about their programming experience prior to the DSSG.
+
+X Shorten the "project" text => 4-5 sentences each.
+Social sciences => further breakdown!
+
+X Scientific communication: WHAT??
+
+X More about speakers and discussion group
+
+X stake-holder => stakeholder
+
+X Break down further the challenges and lessons. Data scientists important assert - WHY? Stakeholder involvement important - HOW? Etc.
+
+X Stakeholders: understanding the nature of the data (context, but other things as well).  Focusing the projects  - having clear sense of success/failure and purpose
+
+X Data scientists fulfilled a variety of different roles: management, specific techincal advice, mentorship, coordination. Shared work-space really helpful!
+
+X Dedicated program managers essential! Community building and coordination at a higher than team level lends cohesiveness (and logistics is a bear!)
+
+X Add to lessons: this can be done at different scales!
+
+X Well-defined projects are important.
+
+### TALK ####
+
+
+In every project - what was the larger goal? what was the data? What was *one* key result (in social good terms!)?
+
+"Succesful exists IN BLUE" (!!)
+
+Incubator projects: what are these images?
+
+From the context - interim summary - before "our recipe"
+
+Our recipe - mention project managers there ?
+
+Another interim summary after the projects
+
+"As you can see, the projects were rather diverse in terms of scope, challenges and questions. You can appreciate that there is potential for these solutions to have impact... A few over-arching lessons we learned <click>"
+
+For the lessons learned slide:
+
+- Tone down the impact point!
+
+- Add a bullet point about the flexible scaling of this program!
+
+- Trainee diversity is a strength - quick example: for example big picture vs. details.
+
+- Diversity means: levels of technical expertise, specific knowledge, disciplinary experience, personal experience.
